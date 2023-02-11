@@ -1,0 +1,6 @@
+framework module Protection {
+  umbrella header "Protection-umbrella.h"
+
+  export *
+  module * { export * }
+}

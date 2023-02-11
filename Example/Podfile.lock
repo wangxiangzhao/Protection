@@ -1,0 +1,16 @@
+PODS:
+  - Protection (0.1.0)
+
+DEPENDENCIES:
+  - Protection (from `../`)
+
+EXTERNAL SOURCES:
+  Protection:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Protection: 8dea38d54aed1313efe9ffd609eb4d41cfeda3df
+
+PODFILE CHECKSUM: 40f28c27b55ec28eaf6daf16f6886c1ae9602e39
+
+COCOAPODS: 1.11.3
