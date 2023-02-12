@@ -19,6 +19,10 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'Protection'
 ```
+## 使用方法
+[XDProtection openProtection:XDExcetionTypeAll callHandler:^(XDException * _Nonnull exception) {
+    NSLog(@"%@", exception.description);
+}];
 
 ## Author
 
